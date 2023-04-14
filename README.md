@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Note Script](https://note-script-dev.herokuapp.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript**
 
